@@ -1,3 +1,5 @@
+# 실행 가능 확인할 것 - Oauth도 포함되어 있음
+
 # Chat App
 
 ## Table of Contents
